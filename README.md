@@ -12,5 +12,6 @@ Daftar list gejala
 
 *Note : Aplikasi ini masih sederhana, hanya menggunakan perkondisian (if-else) tanpa adanya perhitungan ahli jadi hasil yang dihasilkan tidak bisa 100% akurat. 
 
-i'm poor, pls gimme some tip :)
+Thanks.
+
 https://saweria.co/wahyuramdan4
