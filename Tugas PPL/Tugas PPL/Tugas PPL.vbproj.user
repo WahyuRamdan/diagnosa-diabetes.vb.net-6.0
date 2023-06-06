@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Aturan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gejala.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hasil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Homepage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Informasi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Penyakit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Solusi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
