@@ -5,6 +5,7 @@ Aplikasi ini berbasis desktop, yang dibuat menggunakan bahasa program Vb.net 6.0
 Aplikasi ini memiliki 2 akor, pengguna dan admin.
 Admin memiliki akses mengelola data, termasuk rule gejala untuk setiap jenis penyakitnya 
 ![image](https://github.com/WahyuRamdan/diagnosa-diabetes.vb.net-6.0/assets/102342175/1108ec0f-3d4d-409d-9b0f-0d77559a610f)
+
 Daftar list gejala
 ![image](https://github.com/WahyuRamdan/diagnosa-diabetes.vb.net-6.0/assets/102342175/1c4a7016-d7e5-4de3-8159-7898a48939a0)
 
